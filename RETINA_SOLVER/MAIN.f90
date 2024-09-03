@@ -1,0 +1,5 @@
+PROGRAM MAIN
+    INTEGER :: I
+    WRITE (*,*) HUGE(I)
+END PROGRAM
+    
